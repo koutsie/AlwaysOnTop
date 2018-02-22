@@ -1,4 +1,5 @@
 ![AOT LOGO](https://github.com/koutsie/AlwaysOnTop/blob/master/AOT.png?raw=true)
+
 Make the windows stay on top - for windows!
 
 
