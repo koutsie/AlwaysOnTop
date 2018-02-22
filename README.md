@@ -2,6 +2,10 @@
 
 Make the windows stay on top - for windows!
 
+## How dis work?
+- CTRL+SPACE will enable AOT
+- PageUp will kill AOT
+- Thats all, happy tabbing!
 
 #### Splash?
 Just copy the **aot-debug.cfg** to your documents foldier!
