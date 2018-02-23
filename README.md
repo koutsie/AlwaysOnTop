@@ -15,7 +15,9 @@ See the INI file for more information!
 
 #### Todos:
 - Automatic version checking, auto updates & etc....
+
 ~~- Options for the splash etc....~~ DONE!
+
 ~~- Better cfg placement!~~ DONE!
 
 
